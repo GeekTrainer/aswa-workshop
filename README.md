@@ -30,3 +30,9 @@ We want to display a list of dog names on a page. We will start by running every
 3. [Create a Static Web App on Azure and deploy our code](3-create-aswa.md)
 4. [Add Azure Functions for server functionality](4-functions.md)
 5. [Deploy updates to Azure](5-deploy-updates.md)
+
+## Learn more
+
+- [Azure Static Web Apps Documentation](https://docs.microsoft.com/azure/static-web-apps)
+- [Authentication and authorization for Azure Static Web Apps Preview](https://docs.microsoft.com/azure/static-web-apps/authentication-authorization)
+- [Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/)
