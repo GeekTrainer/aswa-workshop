@@ -31,7 +31,7 @@ With our local repository created, we will now push our code to GitHub.
 - Execute the following code in the Integrated Terminal
 
 ``` bash
-git remote add origin https://github.com/<REPLACE-ME>/wibble-2.git
+git remote add origin https://github.com/<REPLACE-ME>/aswa-dogs.git
 git branch -M master
 git push -u origin master
 ```
